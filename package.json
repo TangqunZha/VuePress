@@ -1,0 +1,21 @@
+{
+  "name": "vuepress",
+  "version": "1.0.0",
+  "description": "vuePress test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "docs:dev": "vuepress dev docs",
+    "docs:build":"vuepress dev build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TangqunZha/VuePress_Blog.git"
+  },
+  "author": "zhazha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TangqunZha/VuePress_Blog/issues"
+  },
+  "homepage": "https://github.com/TangqunZha/VuePress_Blog#readme"
+}
